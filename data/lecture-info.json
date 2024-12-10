@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "lectureName": "딥러닝[1]",
+      "teacherName": "원용관",
+      "lectureCode": "AIC0023-1",
+      "lectureTime": "월 15:00-17:00, 수 15:00-16:00",
+      "lecturePlace": "공7-118"
+    },
+    {
+      "lectureName": "정보와통계[1]",
+      "teacherName": "박진경",
+      "lectureCode": "CLT0963-1",
+      "lectureTime": "화 12:00-13:30, 목 12:00-13:30",
+      "lecturePlace": "자3-403"
+    },
+    {
+      "lectureName": "컴퓨터네트워크[3]",
+      "teacherName": "최덕재",
+      "lectureCode": "ECE3026-3",
+      "lectureTime": "월 13:00-15:00, 수 13:00-14:00",
+      "lecturePlace": "공7-217"
+    },
+    {
+      "lectureName": "컴퓨터종합프로젝트1(캡스톤디자인)[1]",
+      "teacherName": "김명진",
+      "lectureCode": "ECE3087-1",
+      "lectureTime": "수 18:00-22:00",
+      "lecturePlace": "공7-218"
+    },
+    {
+      "lectureName": "임베디드소프트웨어[2]",
+      "teacherName": "김명진",
+      "lectureCode": "ECE3088-2",
+      "lectureTime": "월 11:00-13:00, 수 11:00-13:00",
+      "lecturePlace": "공7-219"
+    },
+    {
+      "lectureName": "컴퓨터정보보안[1]",
+      "teacherName": "박재형",
+      "lectureCode": "ECE4080-1",
+      "lectureTime": "월 13:00-15:00, 수 13:00-14:00",
+      "lecturePlace": "공7-224"
+    }
+  ]
+}

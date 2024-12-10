@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "lectureName": "딥러닝[1]"
+    },
+    {
+      "lectureName": "정보와통계[1]"
+    },
+    {
+      "lectureName": "컴퓨터네트워크[3]"
+    },
+    {
+      "lectureName": "컴퓨터종합프로젝트1(캡스톤디자인)[1]"
+    },
+    {
+      "lectureName": "임베디드소프트웨어[2]"
+    },
+    {
+      "lectureName": "컴퓨터정보보안[1]"
+    }
+  ]
+}
